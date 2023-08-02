@@ -1,7 +1,6 @@
 Stock Market Data Analysis Project
 
-https://www.istockphoto.com/search/search-by-asset?affiliateredirect=true&assetid=832105060&assettype=image&utm_campaign=ADP_photo_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fphotos%2Fwall-street-financial-new-york-wall-582921%2F&utm_medium=affiliate&utm_source=pixabay&utm_term=wall+street+financial 
-
+https://media.istockphoto.com/id/832105060/photo/business-team-deal-on-a-stock-exchange-stock-traders-concept.jpg?s=2048x2048&w=is&k=20&c=v0k3h2Bf8wcuNUqhFHqoS1cIq3yPGRlH5_FrGm_NodM=
 ## Overview
 
 This project aims to analyze stock market data and generate insights for a selected set of stocks. The analysis covers data collection from Yahoo Finance API, data cleaning, data visualization, and various data analyses using Python and popular libraries like pandas, numpy, matplotlib, and seaborn.
