@@ -1,6 +1,6 @@
 Stock Market Data Analysis Project
 
-![Stock Market](https://media.istockphoto.com/photos/business-stock-exchange-trading-concepts-picture-id536918523?k=20&m=536918523&s=612x612&w=0&h=JidY3xEN_1se1jVhFvvbGwv53Dzwd6OFzNRblzRYaHg=)
+https://pixabay.com/photos/wall-street-financial-new-york-wall-582921/ 
 
 ## Overview
 
